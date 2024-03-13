@@ -1,0 +1,28 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eedd7b;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-image: url('img/producto.jpg');
+    background-size: cover; /* Para cubrir todo el área del head */
+    background-position: center; /* Para centrar la imagen */
+    background-repeat: no-repeat; /* Para evitar que se repita la imagen */
+}
+/* Estilos para los divs de los locales */
+.local-info {
+    border: 2px solid #1a0b0b; /* Borde sólido de 2px y color gris claro */
+    padding: 10px; /* Espaciado interno de 10px */
+    margin-bottom: 20px; /* Margen inferior de 20px */
+    background-color: #abecb9;
+}
+
+.caja{
+    color: #333;
+}
+
+#locales{
+    color:white;
+}
